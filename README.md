@@ -1,7 +1,7 @@
 # 影視TV
 
 新版下载路径
-https://github.com/FongMi/Release/tree/fongmi/apk/
+https://github.com/FongMi/Release/tree/fongmi/
 
 > mobile = 手機版  
 > leanback = 電視版
