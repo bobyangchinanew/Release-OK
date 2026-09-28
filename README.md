@@ -3,9 +3,7 @@
 新版下载路径
 https://github.com/FongMi/Release/tree/fongmi/apk/
 
-
-https://github.com/FongMi/Release/release/tag/5.6.6
-
+https://github.com/FongMi/Release/releases/tag/5.6.6
 
 > mobile = 手機版  
 > leanback = 電視版
