@@ -4,7 +4,7 @@
 https://github.com/FongMi/Release/tree/fongmi/apk/
 
 
-https://github.com/FongMi/Release/releasa/
+https://github.com/FongMi/Release/release/
 
 
 > mobile = 手機版  
