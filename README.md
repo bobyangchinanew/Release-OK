@@ -3,6 +3,9 @@
 新版下载路径
 https://github.com/FongMi/Release/tree/fongmi/apk/
 
+https://github.com/FongMi/Release/releases/
+
+
 https://github.com/FongMi/Release/releases/tag/5.6.8
 
 > mobile = 手機版  
